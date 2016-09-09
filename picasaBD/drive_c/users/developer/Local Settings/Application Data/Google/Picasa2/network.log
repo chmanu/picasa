@@ -1,0 +1,23 @@
+[Log time: 9 Sep 2016 15:54:24 +0000]
+wininet.dll version: 8.0.7601.17601
+Log level 2, log faces 0
+Picasa3 version 0.00
+[7] Proxy information for connection: LAN Connection
+Using direct connection
+[7] Proxy information for default connection:
+Using direct connection
+[7] SetWinINetOption: Option:'INTERNET_OPTION_SUPPRESS_BEHAVIOR', Flag:1 'INTERNET_SUPPRESS_COOKIE_POLICY', Error:12009 ''
+[7] SetWinINetOption: Option:'INTERNET_OPTION_SUPPRESS_BEHAVIOR', Flag:3 'INTERNET_SUPPRESS_COOKIE_PERSIST', Error:12009 ''
+[22] SetWinINetOption: Option:'INTERNET_OPTION_SUPPRESS_BEHAVIOR', Flag:1 'INTERNET_SUPPRESS_COOKIE_POLICY', Error:12009 ''
+[22] SetWinINetOption: Option:'INTERNET_OPTION_SUPPRESS_BEHAVIOR', Flag:3 'INTERNET_SUPPRESS_COOKIE_PERSIST', Error:12009 ''
+[62] id 1: Stream summary:
+POST request: http://clients2.google.com/service/update2 (200)
+Post data size: 274
+[191] id 2: Stream summary:
+GET request: http://picasa-readme.blogspot.com/feeds/posts/default (200)
+[1227] Found nothing to sync for 
+[36437] SetWinINetOption: Option:'INTERNET_OPTION_SUPPRESS_BEHAVIOR', Flag:1 'INTERNET_SUPPRESS_COOKIE_POLICY', Error:12009 ''
+[36502] SetWinINetOption: Option:'INTERNET_OPTION_SUPPRESS_BEHAVIOR', Flag:3 'INTERNET_SUPPRESS_COOKIE_PERSIST', Error:12009 ''
+[36535] id 4: Stream summary:
+POST request: http://clients2.google.com/service/update2 (200)
+Post data size: 274

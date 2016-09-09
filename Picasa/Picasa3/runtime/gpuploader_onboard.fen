@@ -1,0 +1,44 @@
+<window name="onboard_window" title="Google+ Auto Backup" width="35em">
+  <group layout="column" width="fill">
+    <group name="onboard_banner" layout="row" height="fill">
+      <group layout="column" align="center" width="fill" height="48">
+        <spacer amount="1em"/>
+        <label name="welcome_msg" title="Back up your photos and videos" align="center" height="fill" width="fill" win_fontsize="20" mac_fontsize="16" fontweight="bold"/>
+      </group>
+      <spacer amount="indent"/>
+      <image width="48" height="48" name="welcome_image" align="center"/>
+    </group>
+    <separator width="fill"/>
+    <spacer amount="1em"/>
+    <group name="onboard_desc" layout="column" width="fill">
+      <label name="select_text_1" text-align="left" title="Choose folders and devices" fontweight="bold" width="25em"/>
+      <label name="select_text_2" text-align="left" width="fill" title="Photos and videos will be automatically backed up from the locations you select. Only you can see them until you choose to share them. You and the people you share your photos and videos with can search for them by folder or device name."/>
+      <spacer amount="1em"/>
+    </group>
+    <list name="watched_folders" width="fill" height="5li" checkboxes="true" scroll="v" header="hide">
+      <column name="watch_column" type="check"/>
+    </list>
+    <buttongroup align="end">
+      <button name="add_folder_btn" title="Add..." mac_minsize="120,20"/>
+    </buttongroup>
+    <label name="upload_size_label" title="Photo size:" fontweight="bold" width="fill"/>
+    <group layout="row">
+      <radiogroup name="upload_size_options" layout="column">
+        <radio name="full_size" title="Full size" width="fill"/>
+        <radio name="free_size" title="Standard size (unlimited storage at 2048 px)"/>
+      </radiogroup>
+    </group>
+    <spacer amount="1em"/>
+    <check name="upload_raw" title="Upload full-size RAW files."/>
+    <group name="final_group" layout="column">
+      <spacer amount="3em"/>
+      <group name="final_row" layout="row" width="fill">
+        <button name="more_storage" title="Get more storage..."/>
+        <button name="advanced_btn" title="Advanced..."/>
+        <buttongroup>
+          <button name="start_btn" type="accept" title="Start backup"/>
+        </buttongroup>
+      </group>
+    </group>
+  </group>
+</window>

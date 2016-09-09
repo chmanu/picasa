@@ -1,0 +1,46 @@
+<window name="prefs_window" mac_title="Preferences" win_title="Settings" width="35em">
+  <group layout="column" width="fill">
+    <group name="options_banner" layout="column" width="fill">
+      <group layout="row" height="fill">
+        <label name="account_name" title="" width="fill"/>
+        <button name="log_off" title="Sign out"/>
+      </group>
+      <spacer amount="1em"/>
+      <separator width="fill"/>
+    </group>
+    <spacer amount="1em"/>
+    <label name="source_lbl" text_align="left" title="Backup sources:" fontweight="bold" width="fill"/>
+    <list name="watched_folders" width="fill" height="4li" checkboxes="true" scroll="v" header="hide">
+      <column name="watch_column" type="check"/>
+    </list>
+    <group layout="row" align="end">
+      <button name="add_folder_btn" mac_minsize="120,20" title="Add..."/>
+      <button name="devices_btn" mac_minsize="120,20" title="Devices..."/>
+    </group>
+    <spacer amount="2em"/>
+    <check name="local_folder_chk" title="Also copy photos/videos from cameras and storage cards to"/>
+    <group layout="row">
+      <spacer amount="indent"/>
+      <browse name="local_folder" title="Browse..." prompt=""/>
+    </group>
+    <spacer amount="2em"/>
+    <label name="upload_size_label" title="Photo size:" fontweight="bold" width="fill"/>
+    <group layout="row">
+      <radiogroup name="upload_size_options" layout="column">
+        <radio name="full_size" title="Full size" width="fill"/>
+        <radio name="free_size" title="Standard size (unlimited free storage at 2048 px)"/>
+      </radiogroup>
+    </group>
+    <spacer amount="1em"/>
+    <check name="upload_raw" title="Upload full-size RAW files."/>
+    <check name="send_to_google" title="Send anonymous usage statistics to Google."/>
+    <spacer amount="2em"/>
+    <group name="final_row" layout="row">
+      <button name="more_storage" title="Get more storage..." align="start"/>
+      <buttongroup>
+        <button name="okbutton" type="accept" title="OK" align="end"/>
+        <button name="cancelbutton" type="cancel" title="Cancel" align="end"/>
+      </buttongroup>
+    </group>
+  </group>
+</window>

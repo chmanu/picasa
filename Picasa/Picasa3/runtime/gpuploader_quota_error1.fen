@@ -1,0 +1,22 @@
+<window name="quota_error1" title="Google+ Auto Backup" width="40em">
+  <group layout="row">
+    <spacer amount="1em"/>
+    <image width="64" height="64" name="main_image"/>
+    <spacer amount="2em"/>
+    <group layout="column" width="fill" height="2li">
+      <label name="error_label" width="fill" fontweight="bold" win_fontsize="18" mac_fontsize="16" title="Almost out of storage" />
+      <spacer amount="1em"/>
+      <label name="error_text" width="fill" title="You have less than 1GB of Drive storage left for full-size photos. You can buy more storage or switch to standard size (2048 px) and back up your photos for free."/>
+    </group>
+  </group>
+  <spacer amount="2em"/>
+  <separator width="fill"/>
+  <spacer amount="1em"/>
+  <group>
+    <label width="fill"/>
+    <button name="add_more_storage" title="Get more storage..."/>
+    <button name="accept" type="accept" title="Switch to standard size"/>
+  </group>
+</window>
+
+

@@ -1,0 +1,31 @@
+<window name="window" mac_title="Auto Backup Preferences"
+        win_title="Auto Backup Options" width="fit">
+  <check title="Start Automatically" name="auto_start"/>
+  <spacer amount="1li"/>
+  <label name="networklabel" title="Network Settings:" width="fill"/>
+  <group layout="column" width="fill">
+    <labelgroup name="proxygroup" title="Proxy username:" os="win">
+      <edit width="fill" name="ProxyUser"/>
+    </labelgroup>
+    <labelgroup name="passwordgroup" title="Proxy password:" os="win">
+      <password width="fill" name="ProxyPass"/>
+      <check title="Automatically detect network settings" name="autoproxy"/>
+    </labelgroup>
+    <labelgroup name="loglevelgroup" title="Network log level:">
+      <popup name="loglevel">
+        <item name="disable_item" title="Disable Logging"/>
+        <item name="errors_item" title="Log errors only"/>
+        <item name="min_item" title="Minimal log information"/>
+        <item name="detailed_item" title="Detailed log information"/>
+        <item name="all_item" title="Log all network information"/>
+      </popup>
+    </labelgroup>
+    <labelgroup name="loggroup" title="Log:" width="fill">
+      <pathbox width="fill" name="log"/>
+    </labelgroup>
+  </group>
+  <buttongroup>
+    <button name="okbutton" title="OK" type="accept"/>
+    <button name="cancelbutton" title="Cancel" type="cancel"/>
+  </buttongroup>
+</window>

@@ -1,0 +1,17 @@
+<window title="Login" width="fit">
+  <label align="center" title="Enter your YouTube user name and password."/>
+  <labelgroup title="User name:" width="fill">
+    <edit width="fill" name="user"/>
+  </labelgroup>
+  <labelgroup title="Password:" width="fill">
+    <password width="fill" name="password"/>
+    <group align="end">
+      <link title="Forgot user name" url="http://www.youtube.com/forgot_username?next=/" size="small"/>
+      <link title="Forgot password" url="http://www.youtube.com/forgot?next=/" size="small"/>
+    </group>
+  </labelgroup>
+  <buttongroup>
+    <button title="Log in" type="accept"/>
+    <button title="Cancel" type="cancel"/>
+  </buttongroup>
+</window>

@@ -1,0 +1,1265 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win32
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1473436453
+#time=1d20ab2696ec9e6
+@=""
+
+[Control Panel\\Accessibility\\Blind Access] 1473436447
+#time=1d20ab265b08bf0
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1473436447
+#time=1d20ab265b07e6c
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1473436447
+#time=1d20ab265b08ed4
+"On"="0"
+
+[Control Panel\\Colors] 1473436447
+#time=1d20ab265e9e58a
+
+[Control Panel\\Desktop] 1473436447
+#time=1d20ab265b093c0
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,00,80,10,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1473436447
+#time=1d20ab265b09082
+"BorderWidth"="-15"
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"Shell Icon Size"="32"
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+
+[Control Panel\\International] 1473436446
+#time=1d20ab264f86444
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLDate"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"LC_CTYPE"="00000409"
+"LC_MEASUREMENT"="00000409"
+"LC_MONETARY"="00000409"
+"LC_NUMERIC"="00000409"
+"LC_PAPER"="00000409"
+"LC_TELEPHONE"="00000409"
+"LC_TIME"="00000409"
+"Locale"="00000409"
+"Numshape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM dd, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM, yyyy"
+
+[Control Panel\\Keyboard] 1473436447
+#time=1d20ab265b07f3e
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1473436447
+#time=1d20ab265b09154
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1473436447
+#time=1d20ab265b0649a
+"Beep"="Yes"
+
+[Environment] 1473436451
+#time=1d20ab268093b68
+"TEMP"="C:\\users\\developer\\Temp"
+"TMP"="C:\\users\\developer\\Temp"
+
+[Keyboard Layout\\Preload] 1473436447
+#time=1d20ab265dc8e9e
+"1"="00000409"
+
+[Software\\Classes\\.3fr] 1473436463
+#time=1d20ab26f36d724
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.arw] 1473436463
+#time=1d20ab26f36c572
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.bmp] 1473436463
+#time=1d20ab26f3393de
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.cr2] 1473436463
+#time=1d20ab26f34eebe
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.crw] 1473436463
+#time=1d20ab26f34dd20
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.dc2] 1473436463
+#time=1d20ab26f3806f8
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.dcr] 1473436463
+#time=1d20ab26f3531f8
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.dng] 1473436463
+#time=1d20ab26f36237e
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.erf] 1473436463
+#time=1d20ab26f37af1e
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.gif] 1473436463
+#time=1d20ab26f33a70c
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.jpe] 1473436463
+#time=1d20ab26f336f26
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.jpeg] 1473436463
+#time=1d20ab26f338240
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.jpg] 1473436463
+#time=1d20ab26f335b94
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.k25] 1473436463
+#time=1d20ab26f37f582
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.kdc] 1473436463
+#time=1d20ab26f363526
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.mdc] 1473436463
+#time=1d20ab26f37d26e
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.mef] 1473436463
+#time=1d20ab26f37e3ee
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.mos] 1473436463
+#time=1d20ab26f371dba
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.mrw] 1473436463
+#time=1d20ab26f35dce8
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.nef] 1473436463
+#time=1d20ab26f350e80
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.nrw] 1473436463
+#time=1d20ab26f36fa42
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.orf] 1473436463
+#time=1d20ab26f35203c
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.pef] 1473436463
+#time=1d20ab26f35eeae
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.png] 1473436463
+#time=1d20ab26f33ba1c
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.qtk] 1473436463
+#time=1d20ab26f37c0e4
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.raf] 1473436463
+#time=1d20ab26f360060
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.raw] 1473436463
+#time=1d20ab26f34cb3c
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.rdc] 1473436463
+#time=1d20ab26f370c3a
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.rw2] 1473436463
+#time=1d20ab26f36e8ae
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.sr2] 1473436463
+#time=1d20ab26f36b3ca
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.srf] 1473436463
+#time=1d20ab26f3611ea
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.tga] 1473436463
+#time=1d20ab26f33cbba
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.tif] 1473436463
+#time=1d20ab26f33dd44
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.tiff] 1473436463
+#time=1d20ab26f34a76a
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.webp] 1473436463
+#time=1d20ab26f34b93a
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\.x3f] 1473436463
+#time=1d20ab26f38e4e2
+@="Google.PhotoViewer.3.0"
+
+[Software\\Classes\\Google.PhotoViewer.3.0\\Shell] 1473436461
+#time=1d20ab26dd32f2c
+@="Preview"
+
+[Software\\Classes\\Google.PhotoViewer.3.0\\Shell\\Open\\Command] 1473436461
+#time=1d20ab26dd32324
+@="Z:\\opt\\Picasa\\Picasa3\\PicasaPhotoViewer.exe \"%1\""
+
+[Software\\Classes\\Google.PhotoViewer.3.0\\Shell\\Preview\\Command] 1473436461
+#time=1d20ab26dd32874
+@="Z:\\opt\\Picasa\\Picasa3\\PicasaPhotoViewer.exe \"%1\""
+
+[Software\\Classes\\Google.PhotoViewer.3.0\\Shell\\Upload to Web Albums\\Command] 1473436461
+#time=1d20ab26dd32dd8
+@="Z:\\opt\\Picasa\\Picasa3\\PicasaPhotoViewer.exe /upload \"%1\""
+
+[Software\\Clients\\StartMenuInternet] 1473436464
+#time=1d20ab27005af7c
+
+[Software\\Google\\Google+ Auto Backup\\Preferences] 1473436460
+#time=1d20ab26d9ebfa8
+
+[Software\\Google\\Photos] 1473436455
+#time=1d20ab26a466cd4
+
+[Software\\Google\\Picasa\\Picasa2\\Filters] 1473436455
+#time=1d20ab26a4cc5de
+
+[Software\\Google\\Picasa\\Picasa2\\Preferences] 1473436503
+#time=1d20ab28717f968
+"albumlistflip"=dword:00000000
+"Buttons::DidHideAll"=dword:00000001
+"ClientCrash"="509241132d00c56"
+"ConfiguredSlingshot"=dword:00000006
+"datesort"=dword:00000000
+"FixShortPathNames"=dword:00000000
+"FRRecommendIncludeLimit"=dword:00000032
+"FRSortThreshold"=dword:00000055
+"FRSuggestionSingleThreshold"=dword:0000005a
+"FRSuggestionThreshold"=dword:00000055
+"LastABPromo"="9 Sep 2016 15:54:24 +0000"
+"LastCaptionButton"=dword:00000000
+"lastdesktop"="\\potkseD\\repoleved\\sresu\\:C"
+"lastmydocs"="\\stnemucoD yM\\repoleved\\sresu\\:C"
+"lastmypics"="\\serutciP yM\\repoleved\\sresu\\:C"
+"LastUpdateCheck"=dword:57d2db30
+"LastViewRoot"="flat"
+"LastViewRoot2"="flat"
+"left_drawer_open"=dword:00000001
+"mainwinismax"=dword:00000001
+"mainwinpos"="rect(0 0 1280 774)"
+"p1import"=dword:00000001
+"p2import"=dword:00000001
+"p3import"=dword:00000001
+"peoplesort"=dword:00000000
+"Picasa Notifier"="rect(1259 626 1280 675)"
+"ReadmeLastURL"="http://picasa-readme.blogspot.com/2013/04/a-reminder-to-update-picasa.html"
+"ReportStats"=dword:00000000
+"SaverUpgradedTo25"=dword:00000001
+"ShowFacesBox"=dword:00000000
+"showfeatureslink"=dword:00000027
+"SlingshotBackup.gif"="giffile"
+"SlingshotBackup.jpe"="jpegfile"
+"SlingshotBackup.jpeg"="jpegfile"
+"SlingshotBackup.jpg"="jpegfile"
+"SlingshotBackup.png"="pngfile"
+"Thumbscale"=dword:00000200
+"ThumbscalePeople"=dword:00000200
+"ytHLocal::langchange"=dword:00000000
+
+[Software\\Google\\Picasa\\Picasa2\\Preferences\\Buttons\\Exclude] 1473436456
+#time=1d20ab26ae70f54
+"0"="{9A42861F-B5F4-4577-9228-EA2A782BD906}"
+"1"="{8E6A2DAF-0069-4df2-88D2-8B24BEEC9CA1}"
+"2"="{A957DB23-D80A-4aa6-94A6-D6857FD74A68}"
+"3"="{B9012CB2-DD50-49a5-B4CB-009344BBA285}"
+"4"="{C6ABED00-0058-4420-A9FA-0D471E950308}"
+
+[Software\\Google\\Picasa\\Picasa2\\Preferences\\Buttons\\UserConfig] 1473436456
+#time=1d20ab26ae2c796
+
+[Software\\Google\\Picasa\\Picasa2\\Preferences\\HotFolders] 1473436455
+#time=1d20ab26a4cedde
+
+[Software\\Google\\Picasa\\Picasa2\\resvars] 1473436503
+#time=1d20ab287180cf0
+"HLISTDIV"="0.216406"
+"HLISTOFFSET2"="240.000000"
+"LEFTDRAWEROFFSET"="0.000000"
+"RIGHTDRAWEROFFSET"="0.000000"
+"VLISTDIV"="0.1"
+
+[Software\\Google\\Picasa\\Picasa2\\Runtime] 1473436501
+#time=1d20ab285db000e
+"AppPath"="Z:\\opt\\Picasa\\Picasa3\\Picasa3.exe"
+"resamplefile"=dword:00000001
+
+[Software\\Google\\Picasa\\Picasa2\\Update] 1473436454
+#time=1d20ab26a2a806e
+"UpdateNext"=dword:00000000
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A760-90C8-11D0-BD43-00A0C911CE86}\\cvid] 1473436457
+#time=1d20ab26b88036e
+"CLSID"="{D76E2820-1563-11CF-AC98-00AA004C0FA9}"
+"FccHandler"="cvid"
+"FriendlyName"=""
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A760-90C8-11D0-BD43-00A0C911CE86}\\mrle] 1473436457
+#time=1d20ab26b87fa54
+"CLSID"="{D76E2820-1563-11CF-AC98-00AA004C0FA9}"
+"FccHandler"="mrle"
+"FriendlyName"=""
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A760-90C8-11D0-BD43-00A0C911CE86}\\msvc] 1473436457
+#time=1d20ab26b87fef0
+"CLSID"="{D76E2820-1563-11CF-AC98-00AA004C0FA9}"
+"FccHandler"="msvc"
+"FriendlyName"=""
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A762-90C8-11D0-BD43-00A0C911CE86}] 1473436457
+#time=1d20ab26b814ac4
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}] 1473436457
+#time=1d20ab26b87f072
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{860BB310-5D01-11D0-BD3B-00A0C911CE86}] 1473436457
+#time=1d20ab26b87f1bc
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}] 1473436457
+#time=1d20ab26b814380
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1473436453
+#time=1d20ab2695f42b4
+"Search Page"="http://www.google.com"
+"Start Page"="http://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1473436448
+#time=1d20ab26686c30a
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1473436453
+#time=1d20ab2695f4458
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1473436453
+#time=1d20ab2696ecacc
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1473436455
+#time=1d20ab26a833c9a
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1473436455
+#time=1d20ab26a833dbc
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1473436455
+#time=1d20ab26a833ede
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1473436455
+#time=1d20ab26a8345fa
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1473436455
+#time=1d20ab26a834712
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1473436455
+#time=1d20ab26a83482a
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1473436455
+#time=1d20ab26a8335c4
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1473436455
+#time=1d20ab26a8336f0
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1473436455
+#time=1d20ab26a833812
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1473436455
+#time=1d20ab26a84088c
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1473436455
+#time=1d20ab26a8409a4
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1473436455
+#time=1d20ab26a840ac6
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.3fr] 1473436463
+#time=1d20ab26f36d9cc
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.3fr\\OpenWithList] 1473436463
+#time=1d20ab26f36d332
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.arw] 1473436463
+#time=1d20ab26f36c842
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.arw\\OpenWithList] 1473436463
+#time=1d20ab26f36c18a
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.bmp] 1473436463
+#time=1d20ab26f339686
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.bmp\\OpenWithList] 1473436463
+#time=1d20ab26f338ff6
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.cr2] 1473436463
+#time=1d20ab26f34f170
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.cr2\\OpenWithList] 1473436463
+#time=1d20ab26f34ead6
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.crw] 1473436463
+#time=1d20ab26f34dfc8
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.crw\\OpenWithList] 1473436463
+#time=1d20ab26f34d924
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.dc2] 1473436463
+#time=1d20ab26f3809a0
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.dc2\\OpenWithList] 1473436463
+#time=1d20ab26f380310
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.dcr] 1473436463
+#time=1d20ab26f3534aa
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.dcr\\OpenWithList] 1473436463
+#time=1d20ab26f352dd4
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.dng] 1473436463
+#time=1d20ab26f362644
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.dng\\OpenWithList] 1473436463
+#time=1d20ab26f361f8c
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.erf] 1473436463
+#time=1d20ab26f37b1d0
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.erf\\OpenWithList] 1473436463
+#time=1d20ab26f37ab22
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.gif] 1473436463
+#time=1d20ab26f33a9b4
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.gif\\OpenWithList] 1473436463
+#time=1d20ab26f33a1b2
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.jpe] 1473436463
+#time=1d20ab26f3371ce
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.jpe\\OpenWithList] 1473436463
+#time=1d20ab26f3369ae
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.jpeg] 1473436463
+#time=1d20ab26f3384e8
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.jpeg\\OpenWithList] 1473436463
+#time=1d20ab26f337cdc
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.jpg] 1473436463
+#time=1d20ab26f335e96
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.jpg\\OpenWithList] 1473436463
+#time=1d20ab26f3355cc
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.k25] 1473436463
+#time=1d20ab26f37f82a
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.k25\\OpenWithList] 1473436463
+#time=1d20ab26f37f19a
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.kdc] 1473436463
+#time=1d20ab26f3637ce
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.kdc\\OpenWithList] 1473436463
+#time=1d20ab26f36313e
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mdc] 1473436463
+#time=1d20ab26f37d520
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mdc\\OpenWithList] 1473436463
+#time=1d20ab26f37ce86
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mef] 1473436463
+#time=1d20ab26f37e696
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mef\\OpenWithList] 1473436463
+#time=1d20ab26f37e010
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mos] 1473436463
+#time=1d20ab26f379f88
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mos\\OpenWithList] 1473436463
+#time=1d20ab26f3719dc
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mrw] 1473436463
+#time=1d20ab26f35df9a
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.mrw\\OpenWithList] 1473436463
+#time=1d20ab26f35d8ec
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.nef] 1473436463
+#time=1d20ab26f351128
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.nef\\OpenWithList] 1473436463
+#time=1d20ab26f350a84
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.nrw] 1473436463
+#time=1d20ab26f36fcea
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.nrw\\OpenWithList] 1473436463
+#time=1d20ab26f36f650
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.orf] 1473436463
+#time=1d20ab26f3522ee
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.orf\\OpenWithList] 1473436463
+#time=1d20ab26f351c54
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.pef] 1473436463
+#time=1d20ab26f35f160
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.pef\\OpenWithList] 1473436463
+#time=1d20ab26f35ea9e
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.png] 1473436463
+#time=1d20ab26f33bcc4
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.png\\OpenWithList] 1473436463
+#time=1d20ab26f33b4c2
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.qtk] 1473436463
+#time=1d20ab26f37c38c
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.qtk\\OpenWithList] 1473436463
+#time=1d20ab26f37bcfc
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.raf] 1473436463
+#time=1d20ab26f360308
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.raf\\OpenWithList] 1473436463
+#time=1d20ab26f35fc6e
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.raw] 1473436463
+#time=1d20ab26f34cde4
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.raw\\OpenWithList] 1473436463
+#time=1d20ab26f34c74a
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.rdc] 1473436463
+#time=1d20ab26f370ee2
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.rdc\\OpenWithList] 1473436463
+#time=1d20ab26f370848
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.rw2] 1473436463
+#time=1d20ab26f36eb56
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.rw2\\OpenWithList] 1473436463
+#time=1d20ab26f36e4c6
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.sr2] 1473436463
+#time=1d20ab26f36b67c
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.sr2\\OpenWithList] 1473436463
+#time=1d20ab26f3642b4
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.srf] 1473436463
+#time=1d20ab26f361492
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.srf\\OpenWithList] 1473436463
+#time=1d20ab26f360e02
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.tga] 1473436463
+#time=1d20ab26f33ce62
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.tga\\OpenWithList] 1473436463
+#time=1d20ab26f33c7d2
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.tif] 1473436463
+#time=1d20ab26f349806
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.tif\\OpenWithList] 1473436463
+#time=1d20ab26f33d966
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.tiff] 1473436463
+#time=1d20ab26f34aa12
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.tiff\\OpenWithList] 1473436463
+#time=1d20ab26f34a36e
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.webp] 1473436463
+#time=1d20ab26f34bbec
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.webp\\OpenWithList] 1473436463
+#time=1d20ab26f34b548
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.x3f] 1473436463
+#time=1d20ab26f38e794
+"ProgID"="Google.PhotoViewer.3.0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.x3f\\OpenWithList] 1473436463
+#time=1d20ab26f38e0e6
+"a"="PicasaPhotoViewer.exe"
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1473436451
+#time=1d20ab268002884
+"Administrative Tools"="C:\\users\\developer\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\developer\\Application Data"
+"Cache"="C:\\users\\developer\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\developer\\Cookies"
+"Desktop"="C:\\users\\developer\\Desktop"
+"Favorites"="C:\\users\\developer\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\developer\\Local Settings\\History"
+"Local AppData"="C:\\users\\developer\\Local Settings\\Application Data"
+"My Music"="C:\\users\\developer\\My Music"
+"My Pictures"="C:\\users\\developer\\My Pictures"
+"My Videos"="C:\\users\\developer\\My Videos"
+"NetHood"="C:\\users\\developer\\NetHood"
+"Personal"="C:\\users\\developer\\My Documents"
+"PrintHood"="C:\\users\\developer\\PrintHood"
+"Programs"="C:\\users\\developer\\Start Menu\\Programs"
+"Recent"="C:\\users\\developer\\Recent"
+"SendTo"="C:\\users\\developer\\SendTo"
+"Start Menu"="C:\\users\\developer\\Start Menu"
+"StartUp"="C:\\users\\developer\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\developer\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\developer\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\developer\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\developer\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\developer\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\developer\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\developer\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1473436451
+#time=1d20ab268002686
+"Administrative Tools"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\My Music"
+"My Pictures"=str(2):"%USERPROFILE%\\My Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\My Videos"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\My Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1473436455
+#time=1d20ab26a3e652a
+"ProxyEnable"=dword:00000000
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1473436453
+#time=1d20ab269176516
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1473436453
+#time=1d20ab2691762dc
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1473436453
+#time=1d20ab26917602a
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1473436453
+#time=1d20ab26917658e
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1473436453
+#time=1d20ab2691b20c0
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1473436453
+#time=1d20ab269187de8
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1473436453
+#time=1d20ab2691a230a
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1473436453
+#time=1d20ab2691aa00a
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1473436453
+#time=1d20ab2691b1e22
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1473436453
+#time=1d20ab2691cad96
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1473436453
+#time=1d20ab2696cd2d0
+
+[Software\\Wine\\Debug] 1473436453
+#time=1d20ab2696d3752
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\Drivers\\winealsa.drv] 1473436457
+#time=1d20ab26b815d66
+
+[Software\\Wine\\FileOpenAssociations\\.chm] 1473436463
+#time=1d20ab26f691a18
+"AppName"="hh"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-chm.desktop"
+"MimeType"="application/vnd.ms-htmlhelp"
+"OpenWithIcon"="A35F_hh.0"
+"ProgID"="chm.file"
+
+[Software\\Wine\\FileOpenAssociations\\.gif] 1473436463
+#time=1d20ab26f837994
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-gif.desktop"
+"MimeType"="image/gif"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="giffile"
+
+[Software\\Wine\\FileOpenAssociations\\.hlp] 1473436463
+#time=1d20ab26f8faa98
+"AppName"="winhlp32"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-hlp.desktop"
+"MimeType"="application/winhlp"
+"OpenWithIcon"="4137_winhlp32.0"
+"ProgID"="hlpfile"
+
+[Software\\Wine\\FileOpenAssociations\\.htm] 1473436463
+#time=1d20ab26f996786
+"AppName"="winebrowser"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-htm.desktop"
+"MimeType"="text/html"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="htmlfile"
+
+[Software\\Wine\\FileOpenAssociations\\.ini] 1473436464
+#time=1d20ab26fa365d8
+"AppName"="notepad"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-ini.desktop"
+"MimeType"="application/x-wine-extension-ini"
+"OpenWithIcon"="1E64_notepad.0"
+"ProgID"="inifile"
+
+[Software\\Wine\\FileOpenAssociations\\.jfif] 1473436464
+#time=1d20ab26faba978
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-jfif.desktop"
+"MimeType"="image/jpeg"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="pjpegfile"
+
+[Software\\Wine\\FileOpenAssociations\\.jpe] 1473436464
+#time=1d20ab26fb22eec
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-jpe.desktop"
+"MimeType"="image/jpeg"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="jpegfile"
+
+[Software\\Wine\\FileOpenAssociations\\.msp] 1473436464
+#time=1d20ab26fd0520a
+"AppName"="Wine Installer"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-msp.desktop"
+"MimeType"="application/x-wine-extension-msp"
+"OpenWithIcon"="2402_msiexec.0"
+"ProgID"="Msi.Patch"
+
+[Software\\Wine\\FileOpenAssociations\\.png] 1473436464
+#time=1d20ab26fd89b40
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-png.desktop"
+"MimeType"="image/png"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="pngfile"
+
+[Software\\Wine\\FileOpenAssociations\\.rtf] 1473436464
+#time=1d20ab26fe151ea
+"AppName"="wordpad"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-rtf.desktop"
+"MimeType"="application/rtf"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="rtffile"
+
+[Software\\Wine\\FileOpenAssociations\\.txt] 1473436464
+#time=1d20ab26fe6b89c
+"AppName"="notepad"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-txt.desktop"
+"MimeType"="text/plain"
+"OpenWithIcon"="1E64_notepad.0"
+"ProgID"="txtfile"
+
+[Software\\Wine\\FileOpenAssociations\\.url] 1473436464
+#time=1d20ab26fe995ee
+"AppName"="rundll32"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-url.desktop"
+"MimeType"="application/x-mswinurl"
+"OpenWithIcon"="1CD8_rundll32.0"
+"ProgID"="InternetShortcut"
+
+[Software\\Wine\\FileOpenAssociations\\.vbs] 1473436464
+#time=1d20ab26fea25c2
+"AppName"="A Wine application"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-vbs.desktop"
+"MimeType"="application/x-wine-extension-vbs"
+"ProgID"="VBSFile"
+
+[Software\\Wine\\FileOpenAssociations\\.wri] 1473436464
+#time=1d20ab26fef00c4
+"AppName"="wordpad"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-wri.desktop"
+"MimeType"="application/x-mswrite"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="wrifile"
+
+[Software\\Wine\\FileOpenAssociations\\.xml] 1473436464
+#time=1d20ab26ff1b2b0
+"AppName"="winebrowser"
+"DesktopFile"="/home/developer/.local/share/applications/wine-extension-xml.desktop"
+"MimeType"="application/xml"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="xmlfile"
+
+[Software\\Wine\\Fonts] 1473436454
+#time=1d20ab269c05126
+"Codepages"="1252,437"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1473436447
+#time=1d20ab265af3d9a
+"DejaVu Sans (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans.ttf"
+"DejaVu Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Mono (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono-Bold.ttf"
+"DejaVu Serif (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif.ttf"
+"DejaVu Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif-Bold.ttf"
+"Liberation Mono (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationMono-Regular.ttf"
+"Liberation Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationMono-Bold.ttf"
+"Liberation Mono Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationMono-BoldItalic.ttf"
+"Liberation Mono Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationMono-Italic.ttf"
+"Liberation Sans (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSans-Regular.ttf"
+"Liberation Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSans-Bold.ttf"
+"Liberation Sans Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSans-BoldItalic.ttf"
+"Liberation Sans Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSans-Italic.ttf"
+"Liberation Sans Narrow (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSansNarrow-Regular.ttf"
+"Liberation Sans Narrow Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSansNarrow-Bold.ttf"
+"Liberation Sans Narrow Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSansNarrow-BoldItalic.ttf"
+"Liberation Sans Narrow Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSansNarrow-Italic.ttf"
+"Liberation Serif (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSerif-Regular.ttf"
+"Liberation Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSerif-Bold.ttf"
+"Liberation Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSerif-BoldItalic.ttf"
+"Liberation Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation\\LiberationSerif-Italic.ttf"
+"Marlett (TrueType)"="Z:\\usr\\lib\\wine-development\\..\\..\\share\\wine-development\\wine\\..\\..\\wine\\fonts\\marlett.ttf"
+"Symbol (TrueType)"="Z:\\usr\\lib\\wine-development\\..\\..\\share\\wine-development\\wine\\..\\..\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\usr\\lib\\wine-development\\..\\..\\share\\wine-development\\wine\\..\\..\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\usr\\lib\\wine-development\\..\\..\\share\\wine-development\\wine\\..\\..\\wine\\fonts\\tahomabd.ttf"
+"Wingdings (TrueType)"="Z:\\usr\\lib\\wine-development\\..\\..\\share\\wine-development\\wine\\..\\..\\wine\\fonts\\wingding.ttf"
+
+[Software\\Wine\\WineDbg] 1473436464
+#time=1d20ab2700173d0

@@ -1,0 +1,21 @@
+<window name="window" title="Google+ Auto Backup" width="30em">
+  <group layout="row">
+    <group layout="column">
+      <spacer amount="1em"/>
+      <image width="72" height="72" name="main_image" align="start"/>
+    </group>
+    <spacer amount="1em"/>
+    <group layout="column">
+      <spacer amount="1em"/>
+      <label name="welcomelabel1" title="Back up your Picasa photos" win_fontsize="20" mac_fontsize="18" fontweight="bold" height="1.5li" width="fill"/>
+      <label name="welcomelabel2" height="fit" width="fill"
+               title="Automatically save your photos and videos online with Google+ Auto Backup. They'll be private to you until you choose to share them, and easy to get to from all your devices."/>
+      <spacer amount="1em"/>
+      <link align="start" title="Learn more" url="https://support.google.com/plus/?p=gpautobackup"/>
+    </group>
+  </group>
+  <buttongroup align="end" default="accept">
+    <button name="yesbutton" title="Set up Auto Backup" type="accept"/>
+    <button name="nobutton" title="Not now" type="cancel"/>
+  </buttongroup>
+</window>

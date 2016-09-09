@@ -1,0 +1,14 @@
+<window name="manage_devices" title="Manage Devices" width="fit">
+  <label name="manage_devices_description" width="30em"
+         title="Photos from these devices will be automatically uploaded to Google+ when they are attached."/>
+  <spacer amount="1em"/>
+  <list name="whitelisted_devices" max-width="fill" height="6li" header="hide" scroll="v">
+    <column name="namecolumn" title="Name"  width="fill"/>
+  </list>
+  <spacer amount="1em"/>
+  <group default="accept">
+    <button name="remove" title="Remove"/>
+    <label title="" width="fill"/>
+    <button name="ok" title="Done" type="accept"/>
+  </group>
+</window>

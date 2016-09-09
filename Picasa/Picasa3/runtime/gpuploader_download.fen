@@ -1,0 +1,17 @@
+<window name="window" title="Google+ Auto Backup" width="25em">
+  <group layout="row">
+    <image width="72" height="72" name="main_image"/>
+    <group layout="column" width="25em" height="2li">
+      <label name="device_name" fontweight="bold" title="" width="fill"/>
+      <label name="device_found" title="" width="fill"/>
+      <spacer amount="1em"/>
+      <label name="backup_time" title="" width="fill" />
+      <spacer amount="2em"/>
+      <check name="whitelist" title="Always import from this device"/>
+    </group>
+  </group>
+  <buttongroup default="accept">
+    <button name="accept" type="accept" title="OK"/>
+    <button name="cancel" type="cancel" title="Cancel"/>
+  </buttongroup>
+</window>

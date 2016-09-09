@@ -1,0 +1,229 @@
+﻿Conditions d'utilisation Google
+
+Bienvenue chez Google!
+
+1. Vos rapports avec Google
+
+1.1 L'utilisation des produits, logiciels, services et sites Internet de Google (désignés collectivement les « Services » dans les présentes et excluant tous services fournis par Google en vertu d'un accord écrit distinct) est soumise aux stipulations d'un accord juridique conclu entre Google et vous-même. « Google » désigne Google Inc., dont le principal établissement est sis au 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis. Les présentes explicitent la composition de l'accord et en exposent certaines stipulations.
+
+1.2 Sauf disposition contraire expressément convenue par écrit avec Google, l'accord entre Google et vous-même comportera a minima et dans tous les cas les conditions et modalités exposées dans les présentes, ci-après dénommées les « Conditions universelles ».
+
+1.3 Votre accord avec Google comprendra également les stipulations de toutes Notices légales applicables aux Services, en sus des Conditions universelles, ci-après dénommées les « Conditions supplémentaires ». Dès lors qu'un Service est soumis à des Conditions supplémentaires, celles-ci vous seront communiquées directement dans le Service ou dans le cadre de votre utilisation de ce même Service.
+
+1.4 Les Conditions universelles et les Conditions supplémentaires constituent un contrat à valeur obligatoire conclu entre Google et vous-même applicable à votre utilisation des Services. Il est important que vous preniez le temps de les lire avec attention. Cet accord juridique est collectivement dénommé ci-après les « Conditions ».
+
+1.5 En cas de contradiction entre les Conditions supplémentaires et les Conditions universelles, les Conditions supplémentaires prévaudront eu égard au Service concerné.
+
+2. Acceptation des Conditions
+
+2.1 Avant d’utiliser les Services, vous devez d’abord accepter les présentes Conditions. Vous ne pourrez pas utiliser les Services si vous n’avez pas au préalable accepté les Conditions.
+
+2.2 Votre acceptation des Conditions résultera soit :
+
+(A) de votre clic signifiant votre acceptation des Conditions, dans l’hypothèse où cette option vous est offerte par Google dans l'interface utilisateur du Service;
+
+(B) de votre utilisation effective des Services. Dans cette hypothèse, vous reconnaissez et acceptez que cette utilisation sera dès lors considérée par Google comme valant acceptation des Conditions.
+
+2.3 Vous ne pouvez utiliser les Services et vous ne pouvez accepter les Conditions si (a) vous n’avez pas l'âge légal requis pour conclure un contrat avec Google, ou (b) si la législation des États-Unis ou d'autres pays (y compris le pays où vous résidez ou à partir duquel vous utilisez les Services) vous interdit de les recevoir.
+
+2.4 Avant de continuer, nous vous conseillons d’imprimer ou d’enregistrer un exemplaire des Conditions universelles.
+
+3. Langue des Conditions
+
+3.1 Toute traduction de la version anglaise des Conditions vous est fournie le cas échéant par Google à des fins de commodité uniquement. Seules les versions des Conditions en langue anglaise régiront vos rapports avec Google.
+
+3.2 En cas de contradiction entre les stipulations de la version anglaise et ceux de la traduction, les stipulations de la version en langue anglaise prévaudront.
+
+4. Fourniture des Services par Google
+
+4.1 Google possède des filiales et des entités juridiques affiliées dans le monde entier (« Filiales et Sociétés affiliées »). Occasionnellement, ces sociétés vous fourniront les Services pour le compte de Google. Vous reconnaissez et acceptez que les Filiales et Sociétés affiliées soient autorisées à vous fournir les Services.
+
+4.2 Google n'a de cesse d'innover afin d’offrir la meilleure expérience possible à ses utilisateurs. Vous reconnaissez et acceptez que la forme et la nature des Services fournis par Google puissent être modifiées occasionnellement et sans préavis.
+
+4.3 Dans le cadre de cette constante innovation, vous reconnaissez et acceptez que Google puisse cesser, sans préavis et à son entière discrétion, à titre définitif ou provisoire, de vous fournir tout ou partie des Services ou de ses fonctions, à vous-même ou aux utilisateurs. Vous pourrez cesser d'utiliser les Services à tout moment, sans être tenu d'en informer Google de manière spécifique.
+
+4.4 Vous reconnaissez et acceptez que, si Google désactive l'accès à votre compte, vous pourriez ne pas avoir accès aux Services, aux coordonnées de votre compte ou aux fichiers qui y sont disponibles.
+
+4.5 Vous reconnaissez et acceptez que, même si Google n'a fixé aucun plafond au nombre de transmissions (expédition et/ou réception) que vous pouvez effectuer à travers les Services ou au volume de l'espace de stockage alloué à la fourniture de tout Service, Google peut décider, à tout moment et à son entière discrétion, de fixer de tels plafonds.
+
+5. Utilisation des Services
+
+5.1 L'accès à certains Services nécessite que vous fournissiez des informations vous concernant (par exemple, votre identité ou vos coordonnées) dans le cadre de la procédure d'inscription au Service ou dans le cadre de votre utilisation des Services. Vous reconnaissez que toutes les informations fournies à Google pour les besoins de votre inscription seront toujours exactes, correctes et à jour.
+
+5.2 Vous acceptez de n'utiliser les Services qu'aux seules fins autorisées par (a) les Conditions et (b) toute loi, tout règlement ou toute pratique ou directive généralement acceptée dans les juridictions concernées (y compris toutes lois concernant l’exportation de données ou de logiciels en provenance ou à destination des États-Unis ou d'autres pays le cas échéant).
+
+5.3 Vous acceptez de ne pas accéder (ou de ne pas tenter d’accéder) à tout ou partie des Services par tout moyen autre qu'à travers l'interface fournie par Google, sauf si vous y avez été expressément autorisé par Google dans le cadre d’un accord distinct.
+
+5.4 Vous acceptez de n'entreprendre aucune activité de nature à entraver ou à perturber les Services (ou les serveurs et les réseaux raccordés aux Services).
+
+5.5 Sauf si vous y avez été expressément autorisé par un accord distinct conclu avec Google, vous acceptez de ne pas reproduire, dupliquer, copier, vendre, négocier ou revendre les Services à quelque fin que ce soit.
+
+5.6 Vous reconnaissez que vous êtes le seul et unique responsable de toute violation de vos obligations prévues aux Conditions et des conséquences (y compris toute perte ou tout préjudice subi par Google) d'une telle violation. Vous reconnaissez expressément que Google ne saurait être responsable envers vous ou des tiers à cet égard.
+
+6. Sécurité de votre compte et de vos mots de passe
+
+6.1 Vous acceptez et reconnaissez que vous êtes responsable du respect du caractère confidentiel des mots de passe associés à tout compte que vous utilisez pour avoir accès aux Services.
+
+6.2 En conséquence, vous reconnaissez être le seul et unique responsable à l’égard de Google de tous actes effectués à partir de votre compte.
+
+6.3 Si vous avez connaissance d'une utilisation non autorisée de votre mot de passe ou de votre compte, vous acceptez d'en informer Google sans délai à l’adresse http://www.google.com/support/accounts/bin/answer.py?answer=48601&hl=fr.
+
+7. Données personnelles
+
+7.1 Pour plus d'informations sur les pratiques de Google en matière de protection des données personnelles, veuillez vous reporter à la charte de protection des données personnelles de Google disponible à l’adresse http://www.google.fr/privacy.html. Cette charte explicite les modalités du traitement et de la protection par Google de vos informations personnelles lorsque vous utilisez les Services.
+
+7.2 Vous acceptez que vos données soient utilisées conformément aux chartes de protection des données personnelles de Google.
+
+8. Contenu des Services
+
+8.1 Vous reconnaissez que toute information (telle que les fichiers de données, textes, logiciels, fichiers musicaux, audio, ou autres, photographies, vidéos ou autres images) à laquelle vous pouvez avoir accès dans le cadre ou par le biais de votre utilisation des Services relève de la seule responsabilité de la personne à l'origine de ce contenu. Toutes ces informations sont ci-après collectivement dénommées le « Contenu ».
+
+8.2 Vous êtes informé que le Contenu fourni dans le cadre des Services, y compris, sans limitation, les publicités et le Contenu sponsorisé inclus dans les Services, est susceptible d’être protégé par des droits de propriété intellectuelle au bénéfice des annonceurs ou sponsors qui fournissent le Contenu à Google (ou par toutes autres personnes ou sociétés pour leur compte). Vous ne pouvez pas modifier, louer, concéder en crédit–bail, prêter, vendre, distribuer ou créer une ou plusieurs œuvre(s) dérivée(s) à partir du Contenu (en tout ou en partie), sauf si cette possibilité vous a été expressément octroyée par Google ou par les propriétaires de ce Contenu, dans le cadre d’un accord distinct.
+
+8.3 Google se réserve le droit (sans toutefois y être obligé) de pré-visualiser, d'examiner, de signaler, de filtrer, de modifier, de rejeter ou de retirer tout ou partie du Contenu de tout Service. Pour certains Services, Google peut fournir des outils destinés à éliminer par filtrage tout contenu sexuel explicite. Ces outils comprennent les paramètres de préférence SafeSearch (« Recherche en toute Sécurité », voir http://www.google.fr/help/customize.html#safe). Par ailleurs, il existe des services et des logiciels disponibles permettant de limiter l'accès à tout élément que vous pouvez juger inacceptable.
+
+8.4 Vous reconnaissez que, du fait de l'utilisation des Services, vous pourriez être exposé à un Contenu que vous estimez offensant, indécent ou inacceptable. A cet égard, vous reconnaissez que vous utilisez les Services à vos propres risques et périls.
+
+8.5 Vous acceptez être le seul et unique responsable de tout Contenu que vous créez, transmettez ou affichez dans le cadre de votre utilisation des Services; vous assumez par ailleurs la responsabilité des vos actes (y compris toute perte ou tout préjudice souffert par Google) à cet égard. Vous reconnaissez que Google ne saurait être responsable ni à votre égard ni à celui d'autrui de ce fait.
+
+9. Propriété
+
+9.1 Vous reconnaissez et acceptez que Google (ou ses concédants) détient l’intégralité des droits de propriété afférents aux Services, y compris tous droits de propriété intellectuelle portant sur les Services (quel que soit le territoire de protection et que ces droits aient fait l’objet d’un dépôt ou non). Vous reconnaissez en outre que les Services peuvent contenir des informations désignées comme étant confidentielles par Google et que vous vous interdisez de diffuser ces informations sans l'accord écrit préalable de Google.
+
+9.2 Sauf accord contraire écrit et exprès conclu avec Google, aucune stipulation des présentes Conditions ne vous confère le droit d'utiliser les noms commerciaux, marques commerciale, marques de service, logos, noms de domaine et tous autres signes distinctifs de Google.
+
+9.3 Dans l’hypothèse où vous avez conclu un accord distinct avec Google vous concédant expressément le droit d’utiliser lesdits signes distinctifs, vous vous engagez à les utiliser dans le respect des stipulations dudit accord, ainsi que de toutes dispositions applicables des Conditions et directives de Google concernant l'utilisation des signes distinctifs, telles que modifiées occasionnellement. Vous pouvez vous reporter à ces directives en ligne à l’adresse http://www.google.fr/permissions/guidelines.html (ou à toute autre adresse éventuellement fournie à cet effet par Google).
+
+9.4 Sous réserve de la licence limitée prévue à l'Article 11 des présentes, Google reconnaît et accepte qu’aucun droit de propriété portant sur le Contenu (y compris tous droits de propriété intellectuelle afférents audit Contenu, et ce quel que soit le territoire de protection et que ces droits aient été déposés ou non) que vous soumettez, affichez, transmettez ou publiez sur les Services, ou par le biais des Services, ne lui est transféré ou cédé par vous-même ou vos concédants en vertu des présentes Conditions. Sauf accord contraire exprès conclu par écrit avec Google, vous reconnaissez être responsable de la protection du Contenu et de l'application des droits afférents à ce Contenu. Google n’a aucune obligation de le faire pour votre compte.
+
+9.5 Vous acceptez de ne pas retirer, masquer ou modifier les mentions relatives aux droits de propriété (en ce compris les mentions relatives aux droit d’auteur et aux marques) éventuellement apposées sur ou contenues dans les Services.
+
+9.6 Sauf si vous y avez été expressément autorisé par écrit par Google, vous reconnaissez que, dans le cadre de votre utilisation des Services, vous n'utiliserez aucune marque commerciale, marque de service, nom commercial, logo appartenant à une société ou organisation dans des conditions susceptibles engendrer, délibérément ou non, une confusion quant au propriétaire ou à la personne licenciée pour utiliser ces marques, noms ou logos.
+
+10. Licence de Google
+
+10.1 Google vous concède, à titre gratuit, une licence personnelle, non-cessible, non-exclusive et pour le monde entier, d’utilisation du logiciel qui vous est fourni par Google dans le cadre des Services tels que fournis par Google (désigné ci-après le « Logiciel »). Cette licence est exclusivement destinée à vous permettre d’utiliser et de bénéficier des Services fournis par Google, dans le respect des présentes Conditions.
+
+10.2 Vous ne pouvez pas (et vous ne pouvez autoriser aucune tierce personne à) copier, modifier, créer une œuvre dérivée, désassembler, effectuer l’ingénierie inverse, décompiler ou tenter de toute autre manière d'extraire le code source de tout ou partie du Logiciel, sauf si la loi le permet ou l’exige expressément ou si vous y avez été expressément autorisé par écrit par Google.
+
+10.3 Sauf autorisation expressément accordée par écrit par Google, vous ne pouvez pas céder (ou sous-licencier) vos droits d'utilisation du Logiciel, consentir une sûreté sur le Logiciel ou vos droits d’utilisation ou céder de toute autre manière tout ou partie de vos droits d'utilisation du Logiciel.
+
+11. Licence du Contenu
+
+11.1 Vous conservez la titularité des droits (droits d’auteur et tous autres doits) que vous détenez sur le Contenu que vous soumettez, affichez ou publiez sur les Services, ou par le biais des Services. En soumettant, affichant ou publiant le Contenu, vous acceptez de concéder à Google une licence perpétuelle, irrévocable, pour le monde entier, à titre gratuit et non-exclusive pour reproduire, adapter, modifier, traduire, publier, représenter, afficher et distribuer tout Contenu que vous soumettez, affichez ou publiez sur les Services, ou par le biais des Services. Cette licence a pour seul but de permettre à Google d'afficher, de distribuer et de promouvoir les Services et peut être révoquée pour certains Services, comme indiqué dans les Conditions supplémentaires applicables à ces Services.
+
+11.2 Vous convenez que cette licence comprend le droit pour Google de mettre ledit Contenu à la disposition de sociétés, organisations ou individus tiers avec lesquels Google entretient des rapports pour la fourniture de services communs, et de l'utiliser en conjonction avec la fourniture desdits services.
+
+11.3 Vous reconnaissez que Google, dans l'exécution des étapes techniques requises pour fournir les Services à ses utilisateurs, peut (a) transmettre ou distribuer votre Contenu sur différents réseaux publics et sur plusieurs supports ; et (b) apporter les changements nécessaires à votre Contenu pour le rendre conforme et l’adapter aux conditions techniques des réseaux, des dispositifs ou des supports. Vous accepter de concéder une licence à Google lui permettant d'effectuer les actes susvisés.
+
+11.4 Vous confirmez et garantissez à Google que vous détenez l’intégralité des droits, des autorisations et des pouvoirs nécessaires pour concéder la licence sus mentionnée.
+
+12. Mises à jour du logiciel
+
+12.1 Le logiciel que vous utilisez peut télécharger et installer automatiquement des mises à jour effectuées de temps à autre par Google. Ces mises à jour sont destinées à améliorer, perfectionner et faire évoluer les Services et peuvent prendre la forme de corrections de bogues, de fonctions améliorées, de nouveaux modules logiciels et de versions entièrement nouvelles. Vous acceptez de recevoir ces mises à jour (et vous autorisez Google à vous les transmettre) dans le cadre de votre utilisation des Services.
+
+13. Cessation de vos rapports avec Google
+
+13.1 Les Conditions s'appliqueront jusqu'à leur résiliation par vous-même ou par Google selon les modalités prévues ci-après.
+
+13.2 Vous pourrez résilier votre contrat avec Google en (a) notifiant cette résiliation à Google à tout moment et (b) en clôturant vos comptes pour l'ensemble des Services que vous utilisez, dès lors que Google a mis une telle option à votre disposition. Vous devez adresser votre notification, par écrit, à l'adresse de Google figurant en tête des présentes Conditions.
+
+13.3 Google peut résilier le présent contrat à tout moment, si :
+
+(A) vous avez violé une stipulation des Conditions (ou agi de telle sorte à démontrer à l’évidence que vous ne pouvez pas ou ne souhaitez pas respecter les stipulations des Conditions); ou
+
+(B) la loi oblige Google à le faire (par exemple, lorsque la fourniture des Services à votre intention est ou devient illégale); ou
+
+(C) le partenaire avec lequel Google vous a fourni les Services a mis fin à ses relations avec Google ou a cessé de vous fournir les Services; ou
+
+(D) Google est sur le point de ne plus fournir les Services à des utilisateurs dans le pays où vous résidez ou à partir duquel vous utilisez le service; ou
+
+(E) la fourniture des Services par Google à votre intention n'est plus, selon Google, commercialement rentable.
+
+13.4 Aucune stipulation du présent Article n'affectera les droits de Google concernant la fourniture de Services en vertu de l'Article 4 des Conditions.
+
+13.5 A l’expiration des présentes pour quelque cause que ce soit, les droits, obligations et responsabilités dont Google et vous-même avez bénéficié, auxquels vous avez été soumis (ou qui ont été acquis pendant l’exécution des Conditions) ou qui ont vocation à s’appliquer au-delà de l’expiration des Conditions ne seront pas affectés par ladite expiration. Les stipulations de l’article 20.7 continueront à s'appliquer indéfiniment auxdits droits, obligations et responsabilités.
+
+14. Exclusion de garanties
+
+14.1 Les Services sont fournis « tels quel ». Google, ses Filiales et Société affiliées et ses concédants ne fournissent aucune garantie à cet égard.
+
+14.2 Google, ses Filiales et Sociétés affiliées, et ses concédants ne garantissent notamment pas que :
+
+(A) votre utilisation des Services répondra à vos exigences,
+
+(B) votre utilisation des Services sera ininterrompue, rapide, sécurisée ou exempte d'erreurs,
+
+(C) toute information que vous obtiendrez suite à votre utilisation des Services sera exacte ou fiable, et
+
+(D) des défaillances dans le fonctionnement ou les fonctionnalités de tout Logiciel fourni dans le cadre des Services seront corrigées.
+
+14.3 Aucune garantie, condition ou autre stipulation (y compris toute garantie implicite concernant la qualité satisfaisante, la convenance à un usage particulier ou la conformité à la description donnée) ne s'applique aux Services, sauf disposition expresse contraire prévue aux présentes et dans la limite de cette disposition.
+
+14.4 Aucune stipulation des Conditions n’affectera les droits dont vous bénéficiez en tant que consommateur et dont la modification ou la renonciation par voie contractuelle est impossible.
+
+15. Limitation de responsabilité
+
+15.1 Aucune stipulation des présentes Conditions n'exclura ou ne limitera la responsabilité de Google pour les dommages dont la loi applicable interdit l'exclusion ou la limitation.
+
+15.2 Nonobstant l’article 5.1 ci-dessus, Google, ses Filiales et Sociétés affiliées et ses concédants ne seront pas responsables vis-à-vis de vous :
+
+(A) pour les dommages indirects ou collatéraux que vous pourriez subir, et pour tout manque à gagner (encouru directement ou indirectement), toute perte de fonds de commerce, clientèle ou de réputation, ou toute perte de données que vous pourriez subir ;
+
+(B) toute perte ou tout dommage que vous pourriez subir résultant :
+
+(i) du fait que vous vous soyez fondé sur le caractère complet, exact ou effectif de toute publicité, ou sur toute relation ou transaction entre vous-même et tout annonceur ou sponsor dont la publicité apparaît dans les Services ;
+
+(ii) de tous changements que Google peut apporter aux Services ou de la cessation permanente ou temporaire de la fourniture des Services (ou de toutes caractéristiques des Services) ;
+
+(iii) de l'effacement, de l’altération ou de l'impossibilité d’enregistrer tout Contenu et d'autres données de communication conservés ou transmis au moyen de l'utilisation des Services ;
+
+(iii) de votre défaut de communication à Google d'informations exactes sur votre compte ;
+
+(iv) de votre incapacité à préserver la sécurité et la confidentialité de votre mot de passe et des coordonnées de votre compte.
+
+15.3 Les limitations de responsabilité visées à l’article 15.2 ci-dessus s'appliqueront, que Google ait ou non été informé ou aurait dû ou non avoir connaissance de la possibilité de la survenance de tels dommages.
+
+16. Règles en matière de protection du droit d'auteur et des marques
+
+16.1 Google a pour règle de répondre aux notifications concernant la contrefaçon présumée des droit d’auteur, qui sont conformes à la législation internationale relative la propriété intellectuelle (y compris, aux États-Unis, le Digital Millennium Copyright Act) et de clôturer les comptes des contrefacteurs récidivistes. Vous trouverez plus de détails sur ces règles à l’adresse http://www.google.fr/dmca.html.
+
+16.2 Google gère une procédure d'investigation des plaintes relatives aux marques dans le cadre de l'activité publicitaire de Google, dont vous trouverez les détails à l’adresse http://www.google.fr/tm_complaint.html.
+
+17. Bandeaux publicitaires
+
+17.1 Certains des Services fournis par Google sont financés par des recettes publicitaires et peuvent donc afficher des bandeaux publicitaires et des promotions. Ces publicités peuvent cibler le contenu d'informations stockées dans les Services, des questions posées par le biais des Services ou d'autres informations.
+
+17.2 Les modalités et le champ des annonces publicitaires publiées par Google dans les Services peuvent faire l'objet de modifications sans préavis.
+
+17.3 En contrepartie de l'accès aux Services et de leur utilisation fournis par Google, vous acceptez que Google y affiche des bandeaux publicitaires.
+
+18. Autres contenus
+
+18.1 Les services peuvent contenir des liens hypertextes pointant vers d'autres sites, d'autres contenus ou d’autres ressources sur Internet. Google peut n'avoir aucun contrôle sur le ou les site(s) ou ressources Internet fourni(e) par d'autres sociétés ou personnes que Google.
+
+18.2 Vous reconnaissez et acceptez que Google ne saurait être tenu responsable de la disponibilité de ces sites ou de ces ressources externes et que Google ne cautionne pas le contenu des annonces publicitaires, des produits ou autres éléments présentés ou disponibles sur ces sites ou ces ressources.
+
+18.3 Vous reconnaissez et acceptez que Google ne saurait être tenu responsable d'aucune perte ou d'aucun préjudice que vous pourriez subir du fait de la disponibilité de ces sites ou de ces ressources externes, ou résultant du fait que vous vous soyez fondé sur le caractère complet, exact ou effectif de toute annonce publicitaire, de tout produit ou de tout élément présenté ou disponible sur ces sites ou ces ressources.
+
+19. Modifications des Conditions
+
+19.1 Google peut modifier à tout moment les Conditions universelles ou les Conditions supplémentaires. Dans cette hypothèse, Google mettra les Conditions universelles telles que modifiées à disposition à http://www.google.com/accounts/TOS?hl=fr et toutes nouvelles Conditions supplémentaires seront mises à votre disposition dans les Services concernés ou à travers ceux-ci.
+
+19.2 Vous reconnaissez et acceptez que si vous utilisez les Services après la date de modification des Conditions universelles ou des Conditions supplémentaires, cette utilisation signifiera votre acceptation des Conditions universelles ou des Conditions supplémentaires telles que modifiées.
+
+20. Dispositions générales
+
+20.1 Votre utilisation des Services pourrait impliquer que, par le biais de ces Services ou du fait de l’utilisation de ces Services, vous utilisiez un service, téléchargiez un logiciel, ou achetiez un produit fourni par une autre personne ou société. Votre utilisation de ces autres services, logiciels ou produits peut être soumise à des conditions distinctes applicables entre vous-même et la société ou la personne concernée. Dans cette hypothèse, les Conditions n’auront aucune incidence sur vos rapports avec ces autres sociétés ou individus.
+
+20.2 Les présentes Conditions constituent l'intégralité de l'accord conclu entre Google et vous-même et régissent votre utilisation des Services (à l'exclusion de tous services que Google peut vous fournir en vertu d'un accord écrit distinct). Elles annulent et remplacent tous accords antérieurs entre Google et vous-même eu égard aux Services.
+
+20.3 Vous acceptez que Google vous communique des notices, y compris celles concernant les modifications apportées aux Conditions, par courrier électronique, par courrier postal ou par le biais de messages affichés dans les Services.
+
+20.4 Vous convenez que le non-exercice ou la renonciation par Google à l’exercice d’un droit ou d’un recours prévu dans les présentes Conditions (ou dont Google peut se prévaloir en vertu de toute législation applicable) ne sera pas considérée comme une renonciation par Google au droit ou au recours en cause. Ces droits ou ces recours resteront disponibles à l’avenir.
+
+20.5 Si l'une quelconque des dispositions des présentes Conditions est déclarée invalide par un Tribunal compétent, ladite disposition cessera de s'appliquer, sans affecter les autres dispositions des Conditions, lesquelles conserveront toute leur force et leur portée.
+
+20.6 Il est expressément convenu que chaque membre du groupe de sociétés dont Google est la société mère sera considéré comme un tiers bénéficiaire des Conditions. Ces sociétés auront la faculté d'exécuter directement, et de se prévaloir de toute stipulation des Conditions leur conférant un bénéfice (ou des droits). Sous cette réserve, aucune autre personne ou société ne sera considérée comme un tiers bénéficiaire des Conditions.
+
+20.7 Les présentes Conditions et vos droits et obligations envers Google tels que prévus aux présentes seront régis par le droit anglais. Google et vous-même acceptez de soumettre tout litige découlant des présentes Conditions à la compétence exclusive des Tribunaux anglais. Nonobstant ce qui précède, Google sera en droit de solliciter l'octroi de toutes mesures conservatoires, injonctions ou toute autre mesure d’urgence devant toute juridiction compétente.
