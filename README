@@ -1,3 +1,7 @@
+# This docker provide picasa for linux distribution. It avoid to have 32bits libs on his system
+
+
+
 # Example of this docker's usage
 # Your photos can be linked in the picasaDATA subdirectoy and your database will be stored in picasaBD subdirectory
 #

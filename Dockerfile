@@ -1,5 +1,6 @@
-#from babim/xubuntu
 FROM debian:testing
+MAINTENER chmanu@gmail.com
+
 ADD Picasa /opt/Picasa
 RUN dpkg --add-architecture i386 && apt-get update && apt-get install -y wine32-development 
 
